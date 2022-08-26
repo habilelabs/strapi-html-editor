@@ -1,5 +1,7 @@
 # strapi-html-editor
 
+## Screenshot
+
 ![Screenshot of the editor](./assests/demo.png?raw=true "Screenshot")
 
 ## Installation
