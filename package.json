@@ -1,10 +1,10 @@
 {
   "name": "strapi-html-editor",
-  "version": "0.0.0",
-  "description": "This is the description of the plugin.",
+  "version": "1.0.0",
+  "description": "Presenting an alternative to standard wysiwyg editor in Strapi in the form of this HTML-editor that facilitates easier and hussle-free data customization to use with various frontends.",
   "strapi": {
     "name": "strapi-wysiwyg",
-    "description": "Description of Wysiwyg plugin",
+    "description": "Presenting an alternative to standard wysiwyg editor in Strapi in the form of this HTML-editor that facilitates easier and hussle-free data customization to use with various frontends.",
     "kind": "plugin",
     "displayName": "strapi-html-editor"
   },
@@ -21,6 +21,13 @@
     "type": "git",
     "url": "https://github.com/puspendra09/strapi-html-editor.git"
   },
+  "keywords": [
+    "html editor",
+    "strapi html",
+    "strapi editor",
+    "strapi",
+    "wysiwyg"
+  ],
   "maintainers": [
     {
       "name": "A Strapi developer"
