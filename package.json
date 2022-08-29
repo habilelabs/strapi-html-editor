@@ -1,6 +1,6 @@
 {
   "name": "strapi-html-editor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Presenting an alternative to standard wysiwyg editor in Strapi in the form of this HTML-editor that facilitates easier and hussle-free data customization to use with various frontends.",
   "strapi": {
     "name": "strapi-wysiwyg",
